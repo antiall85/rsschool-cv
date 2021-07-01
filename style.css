@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 body {
@@ -34,6 +33,55 @@ aside {
 
 section {
   flex: 3;
+}
+
+.summary {
+  font-style: oblique;
+  text-align: justify;
+}
+
+a {
+  background-color: transparent;
+}
+
+a:hover, a:active, a:visited, a:hover {
+  outline: none;
+  text-decoration: none;
+}
+
+.section__contact {
+  font-size: 15px;
+  font-style: italic;
+  text-decoration: none;
+  color: honeydew;
+  text-shadow: none;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+.skills {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.education {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.experience {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.skills ul:first-line {
+  text-transform: uppercase;
+  text-decoration: underline;
 }
 
 .photo {
