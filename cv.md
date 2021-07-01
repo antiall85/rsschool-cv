@@ -19,3 +19,19 @@ API/Frameworks: Angular, Fetch, RESTful, Async Programming
 OS: Windows
 English level: Pre-Intermediate
 
+## Education:
+### July 2021 – present time – The Rolling Scopes School
+### September 2011 - June 2019 - Belarusian State University of Informatics and Radioelectronics
+
+## Work experience:
+#### July 2019 - April 2020 - Minsk Automobile Plant LLC
+Project role: Developer
+Project description: Maintenance (support) of software for AWS "Warehouse"
+
+#### April 2020 - July 2020 - ATLANT Inc.
+Project role: Developer
+Project description: Development of ACS modules
+
+#### September 2020 - December 2020 - RUE "Belgosles"
+Project role: Developer
+Project description: Development and revision of the program Reforestation
